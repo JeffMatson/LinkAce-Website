@@ -2,7 +2,7 @@
 title: CLI Commands for LinkAce
 description: LinkAce provides a set of command line tools for maintenance tasks.
 menu:
-  docs_v1:
+  docs_v2:
     weight: 60
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: LinkAce Upgrade guide
 menu:
-  docs_v1:
+  docs_v2:
     weight: 30
 ---
 
